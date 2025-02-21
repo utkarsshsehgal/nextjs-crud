@@ -45,7 +45,7 @@ To learn more about Next.js, take a look at the following resources:
 
 Check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-nextjs-crud-blush.vercel.app
+## Deploying on Vercel
+Link for the project: nextjs-crud-blush.vercel.app
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
